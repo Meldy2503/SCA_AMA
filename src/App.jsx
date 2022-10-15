@@ -1,6 +1,6 @@
 import React from "react";
-import Car from "./Car";
-import Count from "./Count";
+import Car from "./Example1";
+import Count from "./Example2";
 import "./App.css";
 
 function App() {
